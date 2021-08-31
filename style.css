@@ -1,0 +1,228 @@
+body{
+    background-color:  black;
+    color:white;
+}
+
+.biography{
+    font-size: 85px;
+    color: white;
+    text-align: center;
+}
+
+.girl-one {
+    text-align: center;
+}
+
+.jemma{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+.content{
+    color: white;
+   margin-left: 16%;
+   margin-right: 17%;
+   font-size: 20px;
+}
+
+.facebook{
+    width: 24px;
+    height: 45px;
+}
+.twitter{
+    width: 64px;
+    height: 55px;
+    padding-left: 50px;
+    padding-top: 9px;
+}
+.insta{
+    width: 40px;
+    height: 40px;
+    padding-left: 50px;
+}
+
+.logo{
+    text-align: center;
+}
+
+.about-me {
+    display: flex;
+    gap:10%;
+    justify-content: space-between;
+    width:70%;
+    margin: 0 auto;
+   font-size: 20px;
+   word-wrap: break-word;
+}
+
+.content1 {
+    word-wrap: break-word;
+}
+
+.about-title .about-content {
+    width:50%;
+}
+
+.chat-now {
+    display:flex;
+    align-items: center;
+    gap:2%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.margin {
+    margin:8% auto;
+}
+.wrapper {
+    width:700;
+}
+
+.one {
+    font-size:50px;
+    font-weight: 900;
+}
+
+.design-para {
+    font-weight:bold;
+}
+.arrow {
+    text-align: center;
+}
+
+.view{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 29px;
+    color: pink;
+}
+
+.images{
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+
+.images .img-wrapper {
+    width: 33%;
+}
+
+.images .img-wrapper img {
+    padding: 10px;
+    width: calc(100% - 20px);
+    height: auto;
+}
+.border-one{
+   
+    border-radius: 15px 15px 15px 15px;
+}
+
+.border-two{
+    border: solid 2px black;
+    border-radius: 15px 15px 15px 15px;
+}
+.border-three{
+    border: solid 2px black;
+    border-radius: 15px 15px 15px 15px;
+}
+.border-four{
+    border: solid 2px black;
+    border-radius: 15px 15px 15px 15px;
+}
+.border-five{
+    border: solid 2px black;
+    border-radius: 15px 15px 15px 15px;
+}
+.border-six{
+    border: solid 2px black;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.learn{
+    padding-top: 22px;
+    padding-bottom: 22px;
+    padding-left: 75px;
+    padding-right: 75px;
+    border: solid 1px pink;
+    background-color: black;
+    font-size: 15px;
+    color: pink;
+}
+
+.learn-button {
+    text-align: center;
+}
+
+.bring {
+    color: pink;
+    font-weight: bold;
+}
+
+.living {
+        color: white;
+}
+
+.living-life {
+        color: white;
+}
+
+.container-one {
+    margin-top: 140px;
+    margin-left: 12%;*
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.container-one div {
+    width: 46%;
+}
+
+.info{
+    font-size: 54px;
+    color: pink;
+    text-align: center;
+    margin-top: 220px;
+}
+.phone{
+    height: 30px;
+    width: 19px;
+    margin-top: 25px;
+}
+.contact{
+    text-align: center;
+    color: white;
+    display: flex;
+    margin-left: 41%;
+}
+.number{
+    padding-left: 10px;
+    font-size: 27px;
+}
+.lady-pic{
+    text-align: center;
+}
+.location{
+    color: pink;
+    text-align: center;
+    font-size: 29px;
+    font-weight: bold;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.address{
+    color: white;
+    text-align: center;
+    font-size: larger;
+    margin-left: 42%;
+    margin-right: 42%;
+    border-bottom: solid 8px pink;
+    margin-bottom: 50px;
+}
